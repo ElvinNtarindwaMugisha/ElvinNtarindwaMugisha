@@ -1,4 +1,11 @@
 <div align="center">
+  <img height="200" src="![me](https://github.com/user-attachments/assets/3fe0cf20-20d4-4073-b323-12613e2a2ed6)
+"  />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/elvin-mugisha-1162ba293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -12,7 +19,7 @@
 
 ###
 
-<h1 align="center">hey there</h1>
+<h1 align="center">Hey there</h1>
 
 ###
 
