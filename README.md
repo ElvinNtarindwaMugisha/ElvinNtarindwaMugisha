@@ -23,11 +23,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">  About Me</h3>
 
 ###
 
-<p align="left">I'm Ntarindwa Mugisha Elvin from Adventist University of Central Africa<br><br>- 📚 I'm currently learning Software Engineering<br>- ⚡ In my free time I do Video editing, Web and Graphic design</p>
+<p align="left">I'm Ntarindwa Mugisha Elvin from Adventist University of Central Africa<br><br>-  I'm currently learning Software Engineering<br>-  In my free time I do Video editing, Web and Graphic design</p>
 
 ###
 
