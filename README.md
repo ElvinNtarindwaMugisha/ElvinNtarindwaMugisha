@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Ntarindwa Mugisha Elvin from Adventist University of Central Africa<br><br>-  I'm currently learning Software Engineering<br>-  In my free time I do Video editing, Web and Graphic design</p>
+<p align="left">I'm Ntarindwa Mugisha Elvin from Adventist University of Central Africa<br><br>-  I followed the Software Engineering program<br>-  In my free time I do Web and Graphic design</p>
 
 ###
 
